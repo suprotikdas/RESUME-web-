@@ -1,4 +1,4 @@
-# Google Cloud logo live : https://resume-web-sepia-one.vercel.app/
+# livesite : https://resume-web-sepia-one.vercel.app/
 # 🚀 HireCraft AI
 
 **HireCraft AI** is an AI-powered resume builder that helps users create ATS-friendly, recruiter-ready resumes with ease. It uses **Google Gemini AI** to enhance resume content, optimize keywords, generate professional summaries, analyze job descriptions, and provide an ATS score with actionable feedback.
