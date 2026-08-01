@@ -1,0 +1,6 @@
+{
+  "name": "HireCraft AI",
+  "description": "Neo-Brutalist AI Resume Builder with ATS score gauge, smart content enhancement, job description keyword matching, auto skill categorization, multiple templates, and PDF/DOCX export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
